@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98016901312",
+    "project_id": "bcrud-8e715",
+    "storage_bucket": "bcrud-8e715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98016901312:android:72efb64853510b01bf9525",
+        "android_client_info": {
+          "package_name": "com.example.bcrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98016901312-q0l2dtie7k8lp1s8hhg88kshm0shomcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQ4Yx94tC_ccjHifgepgHYCflCnd4yEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98016901312-q0l2dtie7k8lp1s8hhg88kshm0shomcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
